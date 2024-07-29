@@ -1,6 +1,6 @@
-# Parkinson's Disease Prediction System
+# ParkiSense: A Parkinson's Disease Prediction System
 ## Overview
-The Parkinson's Disease Prediction System is a machine learning-based project designed to predict the presence of Parkinson's disease in patients using various biomedical voice measurements. The system employs advanced algorithms to analyze the data and provide accurate predictions, aiming to assist medical professionals in early diagnosis and intervention.
+ParkiSense is a Parkinson's Disease Prediction System is a machine learning-based project designed to predict the presence of Parkinson's disease in patients using various biomedical voice measurements. The system employs advanced algorithms to analyze the data and provide accurate predictions, aiming to assist medical professionals in early diagnosis and intervention.
 
 ## Features
 - Preprocessing of biomedical voice measurements
